@@ -1,0 +1,22 @@
+.digimon-details {
+    display: flex;
+    align-items: center;
+}
+
+.digimon-image {
+    width: 400px; /* Tamaño deseado para la imagen */
+    height: auto;
+    margin-right: 20px; /* Espacio entre la imagen y la información */
+}
+
+.digimon-info {
+    flex-grow: 1; /* Permite que la información ocupe el espacio restante */
+}
+
+.digimon-name {
+    font-size: 24px; /* Tamaño del nombre del robot */
+    margin-bottom: 10px; /* Espacio inferior */
+}
+
+
+
